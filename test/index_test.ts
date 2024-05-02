@@ -1,4 +1,4 @@
-import mitt, { Emitter, EventHandlerMap } from '..';
+import mitt, { Emitter, EventHandlerMap } from '../src';
 import chai, { expect } from 'chai';
 import { spy } from 'sinon';
 import sinonChai from 'sinon-chai';
